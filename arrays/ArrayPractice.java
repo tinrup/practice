@@ -2,7 +2,7 @@ package arrays;
 
 /**
  * finding min and max in array
- * @author tinRup
+ * @author tin
  *
  */
 public class ArrayPractice {
